@@ -25,7 +25,11 @@ simple to understand.
 
 5. Breadbord (if you want to test)
 
+![](Images/image_1.jpg)
+
 6. Jumper wires
+
+![](Images/image_3.jpg)
 
 # Dependencies in python:
 
