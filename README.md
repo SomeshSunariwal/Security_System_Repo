@@ -8,10 +8,16 @@ simple to understand.
 # Requirmets:
 
 1. Raspberry pi 3 b+
-![](Images/image_1.jpg)
+
+![](Images/image_2.jpg)
+
 2. 4 x 4 Keypad 
 
+![](Images/image_7.png)
+
 3. 16 x 2 lcd display
+
+![](Images/image_5.jpg)
 
 4. IR Sensor
 
