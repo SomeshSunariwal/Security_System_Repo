@@ -61,14 +61,11 @@ simple to understand.
 
 2. 4 x 4 KEYPAD PINS:
 
-Row = 8, 10, 12, 16
-
-Col = 18, 22, 24, 26
+    Row = 8, 10, 12, 16  
+    Col = 18, 22, 24, 26  
 
 3. IR PINS:
 
-IN = 37
-
-Power = +5v
-
-Ground = GND
+    IN = 37  
+    Power = +5v  
+    Ground = GND  
