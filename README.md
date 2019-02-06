@@ -48,16 +48,16 @@ simple to understand.
 
 1. LCD PINS : 
 
-d0 = 3
-d1 = 5
-d2 = 7
-d3 = 11
-d4 = 13
-d5 = 15
-d6 = 19
-d7 = 21
-rs = 23
-en = 29
+    d0 = 3  
+    d1 = 5  
+    d2 = 7  
+    d3 = 11  
+    d4 = 13  
+    d5 = 15  
+    d6 = 19  
+    d7 = 21  
+    rs = 23  
+    en = 29  
 
 2. 4 x 4 KEYPAD PINS:
 
