@@ -21,7 +21,7 @@ simple to understand.
 
 4. IR Sensor
 
-![](Images/image_2.jpg)
+![](Images/image_6.jpg)
 
 5. Breadbord (if you want to test)
 
