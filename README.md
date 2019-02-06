@@ -47,3 +47,24 @@ simple to understand.
 # Pin Configuration:
 
 1. LCD PINS : 
+
+d0 = 3
+d1 = 5
+d2 = 7
+d3 = 11
+d4 = 13
+d5 = 15
+d6 = 19
+d7 = 21
+rs = 23
+en = 29
+
+2. 4 x 4 KEYPAD PINS:
+Row = 8, 10, 12, 16
+Col = 18, 22, 24, 26
+
+3. IR PINS:
+
+IN = 37
+Power = +5v
+Ground = GND
