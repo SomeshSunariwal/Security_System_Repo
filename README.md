@@ -9,17 +9,19 @@ simple to understand.
 
 1. Raspberry pi 3 b+
 
-![](Images/image_2.jpg)
+![Raspberry pi 3](Images/image_2.jpg)
 
 2. 4 x 4 Keypad 
 
-![](Images/image_7.png)
+![4 x 4 Keypad](Images/image_7.png)
 
 3. 16 x 2 lcd display
 
 ![](Images/image_5.jpg)
 
 4. IR Sensor
+
+![](Images/image_2.jpg)
 
 5. Breadbord (if you want to test)
 
