@@ -1,19 +1,11 @@
 For lcd :
-
-
-
 rs,en,d0,d1,d2,d3,d4,d5,d6,d7 = 3,5,7,11,13,15,19,21,23,29
 
-
-
 For Keypad
-
-
 Row = [8,10,12,16]
 Col = [18,22,24,26]
 
 For IR sensor:
-
 pin 37
 
 Copyright @ Somesh :-) ;-)
